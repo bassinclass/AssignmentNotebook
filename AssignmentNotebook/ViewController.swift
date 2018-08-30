@@ -98,7 +98,7 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
     
    //google how to delete a tableview cell with a swipe gesture.
     
-    /************ begin gesture recognizer on line 102 **********/
+    /************ begin gesture recognizer on line 102 **************/
     
     
     
